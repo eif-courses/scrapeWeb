@@ -1,5 +1,5 @@
 const rp = require('request-promise');
-const url = 'http://vikoeif.edupage.org/timetable/';
+const url = 'https://vikoeif.edupage.org/timetable/';
 
 // const cors = require('cors');
 // const express = require('express');
